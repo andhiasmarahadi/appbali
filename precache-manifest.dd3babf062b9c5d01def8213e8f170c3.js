@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "15249bed9a8fabd8b4f7ba370de42ea1",
+    "revision": "d29a9cd3f492dee4e7c580e5bb0c215f",
     "url": "/appbali/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/appbali/static/css/2.8e698235.chunk.css"
   },
   {
-    "revision": "512705a4eb4907cbddad",
+    "revision": "18be360e23f1859a7f92",
     "url": "/appbali/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/appbali/static/js/2.a8b6336b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "512705a4eb4907cbddad",
-    "url": "/appbali/static/js/main.1e35a006.chunk.js"
+    "revision": "18be360e23f1859a7f92",
+    "url": "/appbali/static/js/main.0cba1513.chunk.js"
   },
   {
     "revision": "c049f854be547172f3e9",
